@@ -1,0 +1,7 @@
+print 'Willkommen bei Ihrem Taschenrechner'
+    print 'Druecken Sie die ...'
+    print '1 um 2 Zahlen zu summieren'
+    print '2 um die Differenz von 2 Zahlen zu bestimmen'
+    print '3 um das Produkt von 2 Zahlen zu bestimmen'
+    print '4 um 2 Zahlen dividieren'
+    print '5 um das Programm zu beenden'
